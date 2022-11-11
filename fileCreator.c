@@ -25,7 +25,7 @@ int main(int argc, char * argv[]) {
 
 	else {
 
-		perror("%s Creation Failed!");
+		perror("File Creation Failed:");
 
 	}
 
